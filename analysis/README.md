@@ -55,8 +55,8 @@ SQLite database containing the cleaned dataset.
 
 ### Documentation
 
-#### `queries.txt`
-Text file containing SQL queries used for analysis.
+#### `queries.md`
+Markdown file containing SQL queries used for analysis.
 
 ## Usage
 
