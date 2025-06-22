@@ -1,0 +1,399 @@
+#@begin Linear_OR #@desc Linear OpenRefine Workflow
+#@param newColumnName:Standardize_Names
+#@param col-name:times_appeared
+#@param expression:value.toTitlecase()
+#@param col-name:created_at
+#@param col-name:Standardize_Names
+#@param col-name:menu_page_id
+#@param col-name:name
+#@param expression:grel:toString(toDate(value),"yyyy")
+#@param expression:grel:toString(toDate(value),_"yyyy")
+#@param col-name:last_appeared
+#@param col-name:date
+#@param col-name:menu_id
+#@param col-name:first_appeared
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@param expression:value.trim()
+#@param col-name:updated_at
+#@param col-name:dish_id
+#@param expression:value.toDate()
+#@param col-name:id
+#@param expression:grel:toString(toDate(value),"yyyy-MM-dd")
+#@param col-name:description
+#@in table0
+#@out table68
+#@begin core/text-transform0#@desc Text transform on cells in column id using expression value.trim()
+#@param col-name:id
+#@param expression:value.trim()
+#@in table0
+#@out table1
+#@end core/text-transform0
+#@begin core/text-transform1#@desc Text transform on cells in column name using expression value.trim()
+#@param col-name:name
+#@param expression:value.trim()
+#@in table1
+#@out table2
+#@end core/text-transform1
+#@begin core/text-transform2#@desc Text transform on cells in column times_appeared using expression value.trim()
+#@param col-name:times_appeared
+#@param expression:value.trim()
+#@in table2
+#@out table3
+#@end core/text-transform2
+#@begin core/text-transform3#@desc Text transform on cells in column first_appeared using expression value.trim()
+#@param col-name:first_appeared
+#@param expression:value.trim()
+#@in table3
+#@out table4
+#@end core/text-transform3
+#@begin core/text-transform4#@desc Text transform on cells in column last_appeared using expression value.trim()
+#@param col-name:last_appeared
+#@param expression:value.trim()
+#@in table4
+#@out table5
+#@end core/text-transform4
+#@begin core/text-transform5#@desc Text transform on cells in column id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table5
+#@out table6
+#@end core/text-transform5
+#@begin core/text-transform6#@desc Text transform on cells in column name using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:name
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table6
+#@out table7
+#@end core/text-transform6
+#@begin core/text-transform7#@desc Text transform on cells in column times_appeared using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:times_appeared
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table7
+#@out table8
+#@end core/text-transform7
+#@begin core/text-transform8#@desc Text transform on cells in column first_appeared using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:first_appeared
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table8
+#@out table9
+#@end core/text-transform8
+#@begin core/text-transform9#@desc Text transform on cells in column last_appeared using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:last_appeared
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table9
+#@out table10
+#@end core/text-transform9
+#@begin core/text-transform10#@desc Text transform on cells in column name using expression value.toTitlecase()
+#@param col-name:name
+#@param expression:value.toTitlecase()
+#@in table10
+#@out table11
+#@end core/text-transform10
+#@begin core/column-addition0#@desc Create column Standardize Names at index 2 based on column name using expression grel:value
+#@param col-name:name
+#@param newColumnName:"Standardize_Names"
+#@in table11
+#@out table12
+#@end core/column-addition0
+#@begin core/mass-edit0#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table12
+#@out table13
+#@end core/mass-edit0
+#@begin core/mass-edit1#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table13
+#@out table14
+#@end core/mass-edit1
+#@begin core/mass-edit2#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table14
+#@out table15
+#@end core/mass-edit2
+#@begin core/mass-edit3#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table15
+#@out table16
+#@end core/mass-edit3
+#@begin core/mass-edit4#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table16
+#@out table17
+#@end core/mass-edit4
+#@begin core/mass-edit5#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table17
+#@out table18
+#@end core/mass-edit5
+#@begin core/mass-edit6#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table18
+#@out table19
+#@end core/mass-edit6
+#@begin core/mass-edit7#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table19
+#@out table20
+#@end core/mass-edit7
+#@begin core/mass-edit8#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table20
+#@out table21
+#@end core/mass-edit8
+#@begin core/mass-edit9#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table21
+#@out table22
+#@end core/mass-edit9
+#@begin core/mass-edit10#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table22
+#@out table23
+#@end core/mass-edit10
+#@begin core/mass-edit11#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table23
+#@out table24
+#@end core/mass-edit11
+#@begin core/mass-edit12#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table24
+#@out table25
+#@end core/mass-edit12
+#@begin core/mass-edit13#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table25
+#@out table26
+#@end core/mass-edit13
+#@begin core/mass-edit14#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table26
+#@out table27
+#@end core/mass-edit14
+#@begin core/mass-edit15#@desc Mass edit cells in column Standardize Names
+#@param col-name:Standardize_Names
+#@in table27
+#@out table28
+#@end core/mass-edit15
+#@begin core/mass-edit16#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table28
+#@out table29
+#@end core/mass-edit16
+#@begin core/mass-edit17#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table29
+#@out table30
+#@end core/mass-edit17
+#@begin core/mass-edit18#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table30
+#@out table31
+#@end core/mass-edit18
+#@begin core/mass-edit19#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table31
+#@out table32
+#@end core/mass-edit19
+#@begin core/mass-edit20#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table32
+#@out table33
+#@end core/mass-edit20
+#@begin core/mass-edit21#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table33
+#@out table34
+#@end core/mass-edit21
+#@begin core/mass-edit22#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table34
+#@out table35
+#@end core/mass-edit22
+#@begin core/mass-edit23#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table35
+#@out table36
+#@end core/mass-edit23
+#@begin core/mass-edit24#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table36
+#@out table37
+#@end core/mass-edit24
+#@begin core/mass-edit25#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table37
+#@out table38
+#@end core/mass-edit25
+#@begin core/mass-edit26#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table38
+#@out table39
+#@end core/mass-edit26
+#@begin core/mass-edit27#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table39
+#@out table40
+#@end core/mass-edit27
+#@begin core/mass-edit28#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table40
+#@out table41
+#@end core/mass-edit28
+#@begin core/mass-edit29#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table41
+#@out table42
+#@end core/mass-edit29
+#@begin core/mass-edit30#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table42
+#@out table43
+#@end core/mass-edit30
+#@begin core/mass-edit31#@desc Mass edit cells in column name
+#@param col-name:name
+#@in table43
+#@out table44
+#@end core/mass-edit31
+#@begin core/text-transform11#@desc Text transform on cells in column first_appeared using expression grel:toString(toDate(value),\"yyyy\")
+#@param col-name:first_appeared
+#@param expression:grel:toString(toDate(value),"yyyy")
+#@in table44
+#@out table45
+#@end core/text-transform11
+#@begin core/text-transform12#@desc Text transform on cells in column last_appeared using expression grel:toString(toDate(value), \"yyyy\")
+#@param col-name:last_appeared
+#@param expression:grel:toString(toDate(value),_"yyyy")
+#@in table45
+#@out table46
+#@end core/text-transform12
+#@begin core/column-removal0#@desc Remove column Standardize Names
+#@param col-name:Standardize_Names
+#@in table46
+#@out table47
+#@end core/column-removal0
+#@begin core/column-removal1#@desc Remove column description
+#@param col-name:description
+#@in table47
+#@out table48
+#@end core/column-removal1
+#@begin core/text-transform13#@desc Text transform on cells in column id using expression value.trim()
+#@param col-name:id
+#@param expression:value.trim()
+#@in table48
+#@out table49
+#@end core/text-transform13
+#@begin core/text-transform14#@desc Text transform on cells in column id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table49
+#@out table50
+#@end core/text-transform14
+#@begin core/text-transform15#@desc Text transform on cells in column date using expression value.trim()
+#@param col-name:date
+#@param expression:value.trim()
+#@in table50
+#@out table51
+#@end core/text-transform15
+#@begin core/text-transform16#@desc Text transform on cells in column date using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:date
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table51
+#@out table52
+#@end core/text-transform16
+#@begin core/text-transform17#@desc Text transform on cells in column date using expression grel:toString(toDate(value),\"yyyy-MM-dd\")
+#@param col-name:date
+#@param expression:grel:toString(toDate(value),"yyyy-MM-dd")
+#@in table52
+#@out table53
+#@end core/text-transform17
+#@begin core/text-transform18#@desc Text transform on cells in column id using expression value.trim()
+#@param col-name:id
+#@param expression:value.trim()
+#@in table53
+#@out table54
+#@end core/text-transform18
+#@begin core/text-transform19#@desc Text transform on cells in column id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table54
+#@out table55
+#@end core/text-transform19
+#@begin core/text-transform20#@desc Text transform on cells in column menu_page_id using expression value.trim()
+#@param col-name:menu_page_id
+#@param expression:value.trim()
+#@in table55
+#@out table56
+#@end core/text-transform20
+#@begin core/text-transform21#@desc Text transform on cells in column menu_page_id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:menu_page_id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table56
+#@out table57
+#@end core/text-transform21
+#@begin core/text-transform22#@desc Text transform on cells in column dish_id using expression value.trim()
+#@param col-name:dish_id
+#@param expression:value.trim()
+#@in table57
+#@out table58
+#@end core/text-transform22
+#@begin core/text-transform23#@desc Text transform on cells in column dish_id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:dish_id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table58
+#@out table59
+#@end core/text-transform23
+#@begin core/text-transform24#@desc Text transform on cells in column created_at using expression value.trim()
+#@param col-name:created_at
+#@param expression:value.trim()
+#@in table59
+#@out table60
+#@end core/text-transform24
+#@begin core/text-transform25#@desc Text transform on cells in column created_at using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:created_at
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table60
+#@out table61
+#@end core/text-transform25
+#@begin core/text-transform26#@desc Text transform on cells in column updated_at using expression value.trim()
+#@param col-name:updated_at
+#@param expression:value.trim()
+#@in table61
+#@out table62
+#@end core/text-transform26
+#@begin core/text-transform27#@desc Text transform on cells in column updated_at using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:updated_at
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table62
+#@out table63
+#@end core/text-transform27
+#@begin core/text-transform28#@desc Text transform on cells in column created_at using expression value.toDate()
+#@param col-name:created_at
+#@param expression:value.toDate()
+#@in table63
+#@out table64
+#@end core/text-transform28
+#@begin core/text-transform29#@desc Text transform on cells in column id using expression value.trim()
+#@param col-name:id
+#@param expression:value.trim()
+#@in table64
+#@out table65
+#@end core/text-transform29
+#@begin core/text-transform30#@desc Text transform on cells in column id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table65
+#@out table66
+#@end core/text-transform30
+#@begin core/text-transform31#@desc Text transform on cells in column menu_id using expression value.trim()
+#@param col-name:menu_id
+#@param expression:value.trim()
+#@in table66
+#@out table67
+#@end core/text-transform31
+#@begin core/text-transform32#@desc Text transform on cells in column menu_id using expression value.replace(/[\\p{Zs}\\s]+/,' ')
+#@param col-name:menu_id
+#@param expression:value.replace(/[\\p{Zs}\\s]+/,'_')
+#@in table67
+#@out table68
+#@end core/text-transform32
+#@end Linear_OR
