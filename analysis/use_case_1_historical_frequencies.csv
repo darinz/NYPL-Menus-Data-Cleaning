@@ -1,0 +1,1431 @@
+Year,DishName,Occurences,Rank
+1851,Apples,2,1
+1851,Boiled Ham,2,2
+1851,Chateau La Rose Claret,2,3
+1851,Claret: Chateau Leoville,2,4
+1851,Cream Puffs,2,5
+1851,Hock: Rudesheimer,2,6
+1851,Hockheimer Hock,2,7
+1851,Leacock's Old London Particular Madeira,2,8
+1851,"Madeira, Monteiros Reserve",2,9
+1851,Mock Turtle Soup,2,10
+1852,Almonds,2,1
+1852,Apples,2,2
+1852,Beets,2,3
+1852,Boiled Ham,2,4
+1852,Boiled Lobsters,2,5
+1852,Boiled Tongue,2,6
+1852,Champagne: Imperial,2,7
+1852,Curacoa,2,8
+1852,Pale Topaz Sherry,2,9
+1852,Pears,2,10
+1853,Bacon,1,1
+1853,Beef Steaks,1,2
+1853,Boiled Eggs,1,3
+1853,Buckwheat Cakes,1,4
+1853,Calf's Liver,1,5
+1853,Chickens,1,6
+1853,Corn Bread,1,7
+1853,Curry And Rice,1,8
+1853,Dip Toast,1,9
+1853,Dry Toast,1,10
+1854,Asparagus,3,1
+1854,Boiled Potatoes,3,2
+1854,Spinach,3,3
+1854,Vanilla Ice Cream,3,4
+1854,Boiled Corned Beef,2,5
+1854,Boiled Ham,2,6
+1854,Green Peas,2,7
+1854,Mashed Potatoes,2,8
+1854,Onions,2,9
+1854,Roast Turkey,2,10
+1855,Grand Vin De Margeaux Claret,2,1
+1855,Annisette,1,2
+1855,Apple Pie,1,3
+1855,Black Cork Madeira,1,4
+1855,Blackburn Madeira,1,5
+1855,Blanc Mange,1,6
+1855,Bloodgood's Port,1,7
+1855,"Boiled Chicken, Celery Sauce",1,8
+1855,Boiled Corned Beef,1,9
+1855,Boiled Ham,1,10
+1856,Beets,3,1
+1856,Apples,2,2
+1856,Boiled Ham,2,3
+1856,Carrots,2,4
+1856,Chateau Leoville,2,5
+1856,Coffee Royal,2,6
+1856,Green Corn,2,7
+1856,Hock: Rudesheimer,2,8
+1856,Hockheimer Hock,2,9
+1856,Mashed Potatoes,2,10
+1857,Almonds,1,1
+1857,Apples,1,2
+1857,Baked Sago Pudding,1,3
+1857,Barley Soup,1,4
+1857,Blackberry Meringues,1,5
+1857,Blanquette Of Turkey Wings,1,6
+1857,"Boiled Calf's Head, Brain Sauce",1,7
+1857,Boiled Ham,1,8
+1857,Boiled Hominy,1,9
+1857,"Boiled Redfish, Harvey Sauce",1,10
+1858,Sardines,3,1
+1858,Tomatoes,3,2
+1858,Apple Sauce,2,3
+1858,Black Ducks,2,4
+1858,Boiled Ham,2,5
+1858,Boiled Potatoes,2,6
+1858,Boiled Tongue,2,7
+1858,"Boiled Turkey, Oyster Sauce",2,8
+1858,Charlotte Russe,2,9
+1858,Chicken Salad,2,10
+1859,Boiled Eggs,3,1
+1859,Fried Eggs,3,2
+1859,Fried Potatoes,3,3
+1859,Hot Rolls,3,4
+1859,Stewed Potatoes,3,5
+1859,Tripe,3,6
+1859,Beef A La Mode,2,7
+1859,Boiled Potatoes,2,8
+1859,Boiled Rice,2,9
+1859,Boston Brown Bread,2,10
+1861,Almonds,1,1
+1861,Apple Fritters,1,2
+1861,Apples,1,3
+1861,Black Ducks,1,4
+1861,Blue Bill Widgeon,1,5
+1861,"Boiled Turkey, Oyster Sauce",1,6
+1861,Cauliflower A La Creme,1,7
+1861,Champagne Jelly,1,8
+1861,Charlotte Russe,1,9
+1861,Coffee,1,10
+1862,Apples,3,1
+1862,Almonds,2,2
+1862,Beets,2,3
+1862,Boiled Ham,2,4
+1862,Boiled Potatoes,2,5
+1862,Boiled Rice,2,6
+1862,Cocoanut (pies),2,7
+1862,Coffee,2,8
+1862,Figs,2,9
+1862,Filberts,2,10
+1864,Almonds,2,1
+1864,Beets,2,2
+1864,Boiled Ham,2,3
+1864,"Boiled Leg Of Mutton, Caper Sauce",2,4
+1864,Boiled Potatoes,2,5
+1864,Filberts,2,6
+1864,Hockheimer,2,7
+1864,Lady Cake,2,8
+1864,"Madeira, Old South Side",2,9
+1864,Mashed Potatoes,2,10
+1865,Roast Beef,11,1
+1865,Cauliflower,8,2
+1865,Coffee,8,3
+1865,Lobster Salad,8,4
+1865,Roast Chicken,8,5
+1865,Chicken Salad,7,6
+1865,Potted Pigeons,7,7
+1865,Apple Jelly,6,8
+1865,"Blue Fish, Broiled",6,9
+1865,Cantelope Melons,6,10
+1866,Coffee,4,1
+1866,Filberts,4,2
+1866,Lettuce,4,3
+1866,Raisins,4,4
+1866,Almonds,3,5
+1866,Cold Corned Beef,3,6
+1866,Cold Ham,3,7
+1866,Cucumbers,3,8
+1866,English Walnuts,3,9
+1866,Mashed Potatoes,3,10
+1869,Artichauts Sauce Au Beurre,1,1
+1869,Chaufroid De Cailles À La Moderne Sur Socle,1,2
+1869,Compotes D'ananas,1,3
+1869,Consomme,1,4
+1869,Cotelettes D'agneau À L'impératrice Purée Aux Champignons,1,5
+1869,Desserts,1,6
+1869,"Faisans Et Dindes Rôtis, Salade",1,7
+1869,Fruits,1,8
+1869,Gelée Aux Vin De Champagne,1,9
+1869,Glaces Variées,1,10
+1873,"Roast Ham, Wine Sauce",2,1
+1873,Absynth,1,2
+1873,"Adams Champagne Cider, Pts",1,3
+1873,"Adams Champagne Cider, Qts",1,4
+1873,Almonds,1,5
+1873,Amontillado,1,6
+1873,B. & G. Cognac Vierge,1,7
+1873,Baked Blueberry Dumplings,1,8
+1873,"Baked Halibut, Port Wine Sauce",1,9
+1873,Bass' India Ale,1,10
+1880,Coffee,12,1
+1880,Apple Pie,8,2
+1880,Boiled Potatoes,8,3
+1880,Green Peas,7,4
+1880,Mashed Potatoes,7,5
+1880,Fruits,6,6
+1880,Cucumbers,5,7
+1880,Raisins,5,8
+1880,String Beans,5,9
+1880,Tea,5,10
+1881,Coffee,19,1
+1881,Mashed Potatoes,13,2
+1881,Boiled Potatoes,10,3
+1881,Ham,10,4
+1881,Raisins,10,5
+1881,Apple Pie,9,6
+1881,Cold Tongue,9,7
+1881,Stewed Tomatoes,9,8
+1881,Vanilla Ice Cream,9,9
+1881,English Walnuts,8,10
+1882,Stewed Tomatoes,9,1
+1882,Mashed Potatoes,8,2
+1882,Oranges,8,3
+1882,Absinthe,7,4
+1882,Almonds,7,5
+1882,Bananas,7,6
+1882,Coffee,7,7
+1882,Raisins,7,8
+1882,Boiled Rice,6,9
+1882,Cafe,6,10
+1883,Coffee,7,1
+1883,Olives,6,2
+1883,Tea,5,3
+1883,Cafe,4,4
+1883,Congress Water,4,5
+1883,Dessert,4,6
+1883,Mashed Potatoes,4,7
+1883,Peach Pie,4,8
+1883,Petits Fours,4,9
+1883,Sauterne,4,10
+1884,Fruits,10,1
+1884,Cafe,9,2
+1884,Olives,7,3
+1884,Coffee,6,4
+1884,Bananas,5,5
+1884,Cognac,5,6
+1884,Dessert,5,7
+1884,Huitres,5,8
+1884,Mashed Potatoes,5,9
+1884,Pieces Montees,5,10
+1885,Cafe,10,1
+1885,Fruits,10,2
+1885,Coffee,9,3
+1885,Olives,8,4
+1885,Dessert,6,5
+1885,Fruit,5,6
+1885,Green Turtle Soup,4,7
+1885,Huitres,4,8
+1885,Ice Cream,4,9
+1885,Lobster Salad,4,10
+1886,Cafe,6,1
+1886,Fruits,6,2
+1886,Huitres,4,3
+1886,Liqueurs,4,4
+1886,Olives,4,5
+1886,Cheese,3,6
+1886,Coffee,3,7
+1886,Fromage,3,8
+1886,Haricots Verts,3,9
+1886,Patisserie,3,10
+1887,Coffee,16,1
+1887,Celery,11,2
+1887,Fruit,11,3
+1887,Olives,10,4
+1887,Petits Fours,9,5
+1887,Cheese,7,6
+1887,Cigars,7,7
+1887,Assorted Cakes,6,8
+1887,Cafe,6,9
+1887,Fruits,6,10
+1888,Cafe,16,1
+1888,Fruits,15,2
+1888,Coffee,13,3
+1888,Petits Fours,13,4
+1888,Salade De Laitue,10,5
+1888,Fruit,9,6
+1888,Huitres,9,7
+1888,Olives,8,8
+1888,Petits Pois Au Beurre,8,9
+1888,Charlotte Russe,7,10
+1889,Coffee,21,1
+1889,Cafe,20,2
+1889,Fruits,19,3
+1889,Olives,19,4
+1889,Celery,16,5
+1889,Petits Fours,14,6
+1889,Pontet Canet,14,7
+1889,Fruit,11,8
+1889,Mottoes,11,9
+1889,Boiled Potatoes,10,10
+1890,Olives,20,1
+1890,Cafe,19,2
+1890,Coffee,19,3
+1890,Fruits,18,4
+1890,Celery,13,5
+1890,Petits Fours,13,6
+1890,Radishes,9,7
+1890,Cigars,8,8
+1890,Fruit,8,9
+1890,Huitres,8,10
+1891,Coffee,50,1
+1891,Cafe,25,2
+1891,Fruits,24,3
+1891,Olives,24,4
+1891,Celery,22,5
+1891,Mashed Potatoes,16,6
+1891,Raisins,16,7
+1891,Petits Fours,14,8
+1891,Boiled Potatoes,13,9
+1891,Cheese,13,10
+1892,Coffee,41,1
+1892,Olives,36,2
+1892,Cafe,24,3
+1892,Fruit,24,4
+1892,Mashed Potatoes,23,5
+1892,Fruits,22,6
+1892,Petits Fours,19,7
+1892,Celery,18,8
+1892,Chicken Salad,17,9
+1892,Cucumbers,16,10
+1893,Coffee,33,1
+1893,Olives,26,2
+1893,Fruit,17,3
+1893,Mashed Potatoes,17,4
+1893,Radishes,16,5
+1893,Cafe,14,6
+1893,Celery,14,7
+1893,Roquefort Cheese,13,8
+1893,String Beans,13,9
+1893,Cucumbers,12,10
+1894,Coffee,27,1
+1894,Fruits,18,2
+1894,Olives,17,3
+1894,Cafe,15,4
+1894,Radishes,15,5
+1894,Celery,14,6
+1894,Fruit,14,7
+1894,French Peas,12,8
+1894,Petits Fours,11,9
+1894,Sliced Tomatoes,11,10
+1895,Coffee,55,1
+1895,Olives,43,2
+1895,Cafe,30,3
+1895,Radishes,25,4
+1895,Fruits,24,5
+1895,Celery,23,6
+1895,Blue Points,21,7
+1895,Cigars,20,8
+1895,Fruit,20,9
+1895,Cheese,16,10
+1896,Coffee,63,1
+1896,Olives,51,2
+1896,Radishes,41,3
+1896,Celery,37,4
+1896,Fruits,30,5
+1896,Fruit,25,6
+1896,Cafe,24,7
+1896,Cucumbers,23,8
+1896,Lettuce Salad,23,9
+1896,Little Neck Clams,21,10
+1897,Coffee,79,1
+1897,Olives,44,2
+1897,Fruit,42,3
+1897,Cafe,36,4
+1897,Celery,36,5
+1897,Radishes,35,6
+1897,Cucumbers,34,7
+1897,Fruits,34,8
+1897,Assorted Cakes,27,9
+1897,Petits Fours,27,10
+1898,Coffee,108,1
+1898,Olives,82,2
+1898,Celery,75,3
+1898,Radishes,68,4
+1898,Fruit,48,5
+1898,Cucumbers,42,6
+1898,Cafe,40,7
+1898,Fruits,40,8
+1898,Mashed Potatoes,40,9
+1898,Cigars,37,10
+1899,Coffee,283,1
+1899,Olives,172,2
+1899,Fruit,171,3
+1899,Celery,127,4
+1899,Radishes,126,5
+1899,Cheese,123,6
+1899,Mashed Potatoes,94,7
+1899,Consomme,89,8
+1899,Kaffee,84,9
+1899,Tea,78,10
+1900,Coffee,2067,1
+1900,Tea,1294,2
+1900,Boiled Potatoes,957,3
+1900,Mashed Potatoes,872,4
+1900,Celery,797,5
+1900,Fruit,783,6
+1900,Olives,741,7
+1900,Radishes,732,8
+1900,Baked Potatoes,577,9
+1900,Roast Beef,557,10
+1901,Coffee,1546,1
+1901,Tea,835,2
+1901,Mashed Potatoes,552,3
+1901,Olives,517,4
+1901,Radishes,508,5
+1901,Cocoa,477,6
+1901,Fruit,463,7
+1901,Kaffee,445,8
+1901,Sardines,440,9
+1901,Boiled Potatoes,421,10
+1904,Bock Jum Guy (plain Boiled Chicken),1,1
+1904,Bor Low Guy Pan (boneless Chicken With Pineapple),1,2
+1904,Bor Low [preserved Pineapple],1,3
+1904,Bread And Butter,1,4
+1904,Char Shu (roast Loin Of Pork),1,5
+1904,Chinese Cake,1,6
+1904,Chinese Preserves,1,7
+1904,"Chop Sooy, With White Mushrooms",1,8
+1904,Chow Mein (fried Noodle With Boneless Chicken) Large,1,9
+1904,Chow Mein (fried Noodle With Boneless Chicken) Small,1,10
+1905,Coffee,156,1
+1905,Olives,145,2
+1905,Celery,125,3
+1905,Radishes,96,4
+1905,Roast Beef,69,5
+1905,Roquefort,66,6
+1905,Salted Almonds,56,7
+1905,Tea,53,8
+1905,Assorted Cakes,52,9
+1905,Mashed Potatoes,52,10
+1906,Coffee,233,1
+1906,Celery,182,2
+1906,Olives,175,3
+1906,Camembert,142,4
+1906,Demi Tasse,131,5
+1906,Radishes,127,6
+1906,Demi Tasse Special,121,7
+1906,Lynnhavens,120,8
+1906,Roquefort,120,9
+1906,Green Peas,109,10
+1907,Coffee,235,1
+1907,Olives,210,2
+1907,Celery,195,3
+1907,Radishes,129,4
+1907,Cigars,116,5
+1907,Assorted Cakes,80,6
+1907,Apollinaris,77,7
+1907,Cheese,70,8
+1907,Roquefort,66,9
+1907,Cigarettes,65,10
+1908,Celery,37,1
+1908,Olives,37,2
+1908,Coffee,33,3
+1908,Cigars,26,4
+1908,Cigarettes,17,5
+1908,Radishes,17,6
+1908,Assorted Cakes,15,7
+1908,Cafe,15,8
+1908,Blue Points,14,9
+1908,Petits Fours,13,10
+1909,Celery,3,1
+1909,Coffee,2,2
+1909,Julienne Potatoes,2,3
+1909,Lobster Salad,2,4
+1909,Neapolitan Ice Cream,2,5
+1909,Olives,2,6
+1909,Radishes,2,7
+1909,American Cheese,1,8
+1909,Apple Pie,1,9
+1909,Asparagus,1,10
+1910,Coffee,211,1
+1910,Tea,158,2
+1910,Kaffee,125,3
+1910,Boiled Potatoes,106,4
+1910,Marmalade,101,5
+1910,Hominy,89,6
+1910,Tee,89,7
+1910,Verschiedene Wurst,76,8
+1910,Gekochte Kartoffeln,72,9
+1910,Hafergrutze,69,10
+1912,Celery,173,1
+1912,Olives,169,2
+1912,Apollinaris,121,3
+1912,Assorted Cakes,94,4
+1912,Cafe Parfait,80,5
+1912,Lobster Cocktail,78,6
+1912,Beluga Caviar,74,7
+1912,Crab Flake Cocktail,74,8
+1912,Turkish Coffee,74,9
+1912,Boiled Potatoes,73,10
+1913,Olives,281,1
+1913,Celery,243,2
+1913,Coffee,203,3
+1913,Apollinaris,160,4
+1913,Stewed Prunes,155,5
+1913,Apple Sauce,149,6
+1913,Radishes,124,7
+1913,Cigars,109,8
+1913,Sliced Tomatoes,109,9
+1913,Assorted Cakes,108,10
+1914,Celery,570,1
+1914,Olives,543,2
+1914,Apollinaris,427,3
+1914,Assorted Cakes,340,4
+1914,Green Peas,327,5
+1914,Cafe Parfait,304,6
+1914,Lettuce Salad,304,7
+1914,Vanilla Ice Cream,300,8
+1914,New String Beans,277,9
+1914,"Caviar, Special Importation",265,10
+1915,Olives,150,1
+1915,Celery,133,2
+1915,Radishes,112,3
+1915,Coffee,109,4
+1915,Assorted Cakes,87,5
+1915,Green Peas,52,6
+1915,Lobster Salad,52,7
+1915,Sliced Peaches,52,8
+1915,Watermelon,52,9
+1915,Anchovies In Mustard,51,10
+1916,Olives,107,1
+1916,Coffee,93,2
+1916,Celery,82,3
+1916,Radishes,48,4
+1916,Assorted Cakes,32,5
+1916,Clams:,25,6
+1916,Cigars,21,7
+1916,Little Neck Clams,21,8
+1916,Stewed Tomatoes,20,9
+1916,Apple Pie,19,10
+1917,Celery,335,1
+1917,Chicken Salad,250,2
+1917,Little Neck Clams,244,3
+1917,Lobster Salad,241,4
+1917,Chocolate Ice Cream,235,5
+1917,Melon Casaba,234,6
+1917,Vanilla Ice Cream,229,7
+1917,Mashed Potatoes,212,8
+1917,Roquefort Cheese,205,9
+1917,String Beans,205,10
+1918,Celery,265,1
+1918,Radishes,241,2
+1918,Demi-tasse,195,3
+1918,"Grape Fruit, Half",183,4
+1918,Lobster Cocktail,170,5
+1918,String Beans,169,6
+1918,Biscuit Tortoni,160,7
+1918,Lima Beans,154,8
+1918,Ripe Olives,153,9
+1918,Sardines,151,10
+1919,Celery,81,1
+1919,Olives,77,2
+1919,Coffee,37,3
+1919,Grapefruit,33,4
+1919,Cafe Noir,32,5
+1919,Mashed Potatoes,31,6
+1919,Biscuit Tortoni,28,7
+1919,Radishes,28,8
+1919,French Fried Potatoes,27,9
+1919,Orange,25,10
+1920,Olives,79,1
+1920,Celery,64,2
+1920,Cafe Noir,37,3
+1920,Coffee,26,4
+1920,Radishes,26,5
+1920,Assorted Cakes,24,6
+1920,Cigars,24,7
+1920,Gourmandises,22,8
+1920,Strawberries And Cream,20,9
+1920,Cape Cod Oysters,19,10
+1921,Coffee,69,1
+1921,Mashed Potatoes,64,2
+1921,French Fried Potatoes,54,3
+1921,Olives,51,4
+1921,American Cheese,43,5
+1921,Tea,41,6
+1921,Boiled Potatoes,40,7
+1921,Baked Potatoes,39,8
+1921,Milk,36,9
+1921,Swiss Cheese,32,10
+1922,American,3,1
+1922,Apricot Brandy,1,2
+1922,Bacon And Eggs,1,3
+1922,Bacon And Tomato,1,4
+1922,"Baked Beans (hot Or Cold), Brown Bread",1,5
+1922,Benedictine,1,6
+1922,"Boiled, Fried Or Scrambled Eggs",1,7
+1922,Bread,1,8
+1922,Camembert,1,9
+1922,Cheese,1,10
+1924,Coffee,7,1
+1924,Olives,7,2
+1924,Celery,6,3
+1924,Cafe,3,4
+1924,Cake,3,5
+1924,Cakes,3,6
+1924,Cigarettes,3,7
+1924,Cigars,3,8
+1924,Demi Tasse,3,9
+1924,Pineapple,3,10
+1925,Olives,14,1
+1925,Cafe,11,2
+1925,Celery,11,3
+1925,Coffee,7,4
+1925,Salted Nuts,7,5
+1925,Cigars,6,6
+1925,Cigarettes,5,7
+1925,Dessert,5,8
+1925,Apples,4,9
+1925,Cakes,4,10
+1926,Celery,17,1
+1926,Olives,17,2
+1926,Coffee,13,3
+1926,Cigarettes,8,4
+1926,Cigars,8,5
+1926,Salted Almonds,5,6
+1926,Assorted Cakes,4,7
+1926,Demi-tasse,4,8
+1926,Fruit Cocktail,4,9
+1926,Macaroons,4,10
+1927,Celery,15,1
+1927,Olives,12,2
+1927,Coffee,10,3
+1927,Cigarettes,8,4
+1927,Cigars,8,5
+1927,Demi Tasse,8,6
+1927,Mashed Potatoes,7,7
+1927,Cafe,6,8
+1927,Lettuce And Tomato Salad,6,9
+1927,French Fried Potatoes,5,10
+1928,Coffee,28,1
+1928,Celery,21,2
+1928,Mashed Potatoes,18,3
+1928,Boiled Potatoes,17,4
+1928,Olives,17,5
+1928,Salted Almonds,14,6
+1928,After Dinner Mints,12,7
+1928,Ripe Olives,12,8
+1928,Radishes,11,9
+1928,Boiled Rice,10,10
+1929,Coffee,19,1
+1929,Olives,17,2
+1929,Celery,16,3
+1929,Cigarettes,10,4
+1929,Tea,10,5
+1929,Cigars,8,6
+1929,Demi Tasse,7,7
+1929,Assorted Cakes,6,8
+1929,Cafe,5,9
+1929,Candied Sweet Potatoes,5,10
+1930,Coffee,6,1
+1930,Cocoa,5,2
+1930,Tea,5,3
+1930,Buttermilk (bottle),4,4
+1930,Celery,4,5
+1930,Milk,4,6
+1930,Muffins,4,7
+1930,Ripe Olives,4,8
+1930,Rolls,4,9
+1930,Asparagus Tips Vinaigrette,3,10
+1931,Celery,16,1
+1931,Olives,15,2
+1931,Coffee,10,3
+1931,Demi Tasse,7,4
+1931,Cigarettes,6,5
+1931,Salted Nuts,6,6
+1931,Tea,6,7
+1931,Cafe,4,8
+1931,Cocoa,4,9
+1931,Dessert,4,10
+1932,Olives,20,1
+1932,Mashed Potatoes,18,2
+1932,Celery,17,3
+1932,Coffee,17,4
+1932,Grape Juice,13,5
+1932,Swiss Cheese,11,6
+1932,Frutta,10,7
+1932,American Cheese,9,8
+1932,Cafe Noir,9,9
+1932,Caffe,9,10
+1933,Pear,335,1
+1933,Grapefruit (half),307,2
+1933,Orange,301,3
+1933,Cocktail Sauce,298,4
+1933,Mashed Potatoes,275,5
+1933,Lobster Salad,269,6
+1933,Bread And Butter,259,7
+1933,Clam Juice - Cocktail,255,8
+1933,Orange Water Ice,255,9
+1933,Celery,251,10
+1934,Celery,16,1
+1934,Petits Fours,16,2
+1934,Coffee,15,3
+1934,Boiled Potatoes,11,4
+1934,Corbeille De Fruits,11,5
+1934,Mashed Potatoes,10,6
+1934,Romaine Salad,10,7
+1934,Spaghetti,10,8
+1934,Friandises,9,9
+1934,Olives,9,10
+1935,Coffee,36,1
+1935,Celery,20,2
+1935,Mashed Potatoes,18,3
+1935,Boiled Potatoes,17,4
+1935,Olives,17,5
+1935,Baked Potatoes,16,6
+1935,Tea,16,7
+1935,Corbeille De Fruits,13,8
+1935,Demi Tasse,12,9
+1935,Spaghetti,12,10
+1936,Assorted Nuts,1,1
+1936,Cheese Straws,1,2
+1936,Crab Legs Cocktail Sauce,1,3
+1936,Cranberry Sauce,1,4
+1936,Demi-tasse,1,5
+1936,Filet Of Rex Sole Marguery,1,6
+1936,French Dressing,1,7
+1936,Green Olives,1,8
+1936,Hearts Of Celery,1,9
+1936,Imperial Sweet Potato,1,10
+1937,Coffee,157,1
+1937,Tea,118,2
+1937,Mashed Potatoes,78,3
+1937,Milk,78,4
+1937,Tomato Juice,58,5
+1937,Postum,57,6
+1937,Boiled Potatoes,55,7
+1937,French Fried Potatoes,51,8
+1937,Ripe Olives,49,9
+1937,Demi Tasse,46,10
+1938,Coffee,89,1
+1938,Tea,65,2
+1938,Milk,44,3
+1938,Tomato Juice,44,4
+1938,Celery,36,5
+1938,Hearts Of Celery,36,6
+1938,Ripe Olives,34,7
+1938,French Fried Potatoes,33,8
+1938,Green Olives,33,9
+1938,Demi Tasse,32,10
+1939,Coffee,74,1
+1939,Demi Tasse,71,2
+1939,Tea,67,3
+1939,Milk,58,4
+1939,Hearts Of Celery,56,5
+1939,Ripe Olives,46,6
+1939,Tomato Juice,41,7
+1939,Green Olives,39,8
+1939,Chocolate Leaves,33,9
+1939,Olives,33,10
+1940,Coffee,100,1
+1940,Tea,85,2
+1940,Milk,80,3
+1940,Tomato Juice,62,4
+1940,Vanilla Ice Cream,53,5
+1940,Chocolate Ice Cream,49,6
+1940,Celery,41,7
+1940,French Fried Potatoes,40,8
+1940,Mashed Potatoes,38,9
+1940,Strawberry Ice Cream,38,10
+1941,Coffee,91,1
+1941,Milk,80,2
+1941,Tea,71,3
+1941,Tomato Juice,58,4
+1941,Celery,43,5
+1941,French Fried Potatoes,37,6
+1941,Vanilla Ice Cream,37,7
+1941,Chocolate Ice Cream,32,8
+1941,Olives,31,9
+1941,Grapefruit Juice,30,10
+1942,Coffee,10,1
+1942,Milk,10,2
+1942,Potatoes Saute,8,3
+1942,Tea,8,4
+1942,Coffee (cup),7,5
+1942,Dry Cereal With Cream,7,6
+1942,Milk Toast,7,7
+1942,Cocoa,6,8
+1942,Cream Toast,6,9
+1942,Fresh Baked Pie,6,10
+1943,Coffee,113,1
+1943,Tea,106,2
+1943,Milk,87,3
+1943,Tomato Juice,50,4
+1943,Orange Juice,33,5
+1943,French Fried Potatoes,32,6
+1943,Vanilla Ice Cream,31,7
+1943,Chocolate Ice Cream,30,8
+1943,Grapefruit (half),29,9
+1943,Ice Cream,29,10
+1944,Coffee,39,1
+1944,Tea,37,2
+1944,Chocolate Ice Cream,35,3
+1944,Vanilla Ice Cream,33,4
+1944,Tomato Juice,30,5
+1944,Apple Juice,29,6
+1944,Grapefruit (half),28,7
+1944,Demi Tasse,26,8
+1944,Chicken Salad,19,9
+1944,Strawberry Ice Cream,19,10
+1945,Coffee,47,1
+1945,Tea,43,2
+1945,Milk,39,3
+1945,Demi Tasse,28,4
+1945,Vanilla Ice Cream,28,5
+1945,Grapefruit Juice,27,6
+1945,Buttermilk,25,7
+1945,Chocolate Ice Cream,21,8
+1945,Chatterbox Pudding,20,9
+1945,French Fried Potatoes,19,10
+1946,Coffee,85,1
+1946,Tea,62,2
+1946,Milk,53,3
+1946,Tomato Juice,34,4
+1946,Demi Tasse,32,5
+1946,Chicken Salad,26,6
+1946,Vanilla Ice Cream,25,7
+1946,Ice Cream,24,8
+1946,Tea (pot),23,9
+1946,Buttermilk,22,10
+1947,Coffee,25,1
+1947,Milk,18,2
+1947,Tea,15,3
+1947,Vanilla Ice Cream,15,4
+1947,Buttermilk,14,5
+1947,Camembert,14,6
+1947,Grapefruit (half),13,7
+1947,Tomato Juice,13,8
+1947,Chicken Salad,12,9
+1947,Chocolate Ice Cream,12,10
+1948,Coffee,44,1
+1948,Tea,40,2
+1948,Tomato Juice,35,3
+1948,Milk,33,4
+1948,Grapefruit (half),25,5
+1948,Buttermilk,24,6
+1948,Ice Cream,24,7
+1948,Grapefruit Juice,21,8
+1948,Orange Juice,19,9
+1948,Chicken Salad,17,10
+1949,Coffee,65,1
+1949,Tea,55,2
+1949,Milk,46,3
+1949,French Fried Potatoes,35,4
+1949,Tomato Juice,35,5
+1949,Vanilla Ice Cream,24,6
+1949,Shrimp Cocktail,23,7
+1949,Chicken Salad,22,8
+1949,Buttermilk,21,9
+1949,Chocolate Ice Cream,21,10
+1950,Coffee,24,1
+1950,Tomato Juice,19,2
+1950,Tea,18,3
+1950,French Fried Potatoes,16,4
+1950,Chicken Salad,15,5
+1950,Shrimp Cocktail,14,6
+1950,String Beans,14,7
+1950,Baked Apple,13,8
+1950,Lobster Salad,13,9
+1950,Potatoes Au Gratin,13,10
+1951,Coffee,12,1
+1951,Milk,9,2
+1951,Ice Cream,6,3
+1951,Martini,6,4
+1951,Tea,6,5
+1951,Daiquiri,5,6
+1951,Iced Tea,5,7
+1951,Shrimp Cocktail,5,8
+1951,Tomato Juice,5,9
+1951,Cherrystone Clams,4,10
+1952,Coffee,16,1
+1952,Tomato Juice,12,2
+1952,Tea,11,3
+1952,Buttermilk,10,4
+1952,Demi Tasse,10,5
+1952,French Fried Potatoes,9,6
+1952,Cafe,8,7
+1952,Clam Juice,8,8
+1952,Broccoli,7,9
+1952,Cauliflower,7,10
+1953,Coffee,40,1
+1953,Tea,35,2
+1953,Mashed Potatoes,27,3
+1953,Boiled Potatoes,24,4
+1953,Tomato Juice,23,5
+1953,French Fried Potatoes,22,6
+1953,Milk,21,7
+1953,Sanka,21,8
+1953,French Dressing,19,9
+1953,Iced Tea,19,10
+1954,Coffee,44,1
+1954,Tea,37,2
+1954,Milk,30,3
+1954,Mashed Potatoes,18,4
+1954,Tomato Juice,18,5
+1954,French Fried Potatoes,17,6
+1954,Ice Cream,17,7
+1954,Grapefruit (half),15,8
+1954,Boiled Potatoes,14,9
+1954,Buttermilk,14,10
+1955,Coffee,74,1
+1955,Tea,57,2
+1955,Milk,54,3
+1955,Tomato Juice,46,4
+1955,Orange Pekoe,42,5
+1955,Iced Tea,35,6
+1955,French Fried Potatoes,31,7
+1955,Iced Coffee,31,8
+1955,Bordeaux Red,29,9
+1955,Shrimp Cocktail,29,10
+1956,Mit Sahne,6,1
+1956,Cheese Cake,4,2
+1956,Pate Traktir,4,3
+1956,Anguille En Gelee,3,4
+1956,Benedictine,3,5
+1956,Crabe Mexicaine,3,6
+1956,Fruit Cheese Cake,3,7
+1956,Geflugelcremesuppe,3,8
+1956,Kraftbruhe Mit Einlage,3,9
+1956,Moules Chowder,3,10
+1957,Coffee,87,1
+1957,Milk,63,2
+1957,Tea,57,3
+1957,Tomato Juice,47,4
+1957,French Fried Potatoes,38,5
+1957,Grapefruit (half),28,6
+1957,Ice Cream,27,7
+1957,Shrimp Cocktail,26,8
+1957,Fresh Fruit,22,9
+1957,Iced Tea,22,10
+1958,Coffee,47,1
+1958,Tea,43,2
+1958,Milk,34,3
+1958,Tomato Juice,32,4
+1958,French Fried Potatoes,31,5
+1958,Vanilla Ice Cream,30,6
+1958,Mashed Potatoes,24,7
+1958,Demi Tasse,22,8
+1958,French Dressing,22,9
+1958,Chocolate Ice Cream,20,10
+1959,Coffee,72,1
+1959,Tea,52,2
+1959,Vanilla Ice Cream,44,3
+1959,Milk,42,4
+1959,French Fried Potatoes,39,5
+1959,Melon In Season,32,6
+1959,Oranges,30,7
+1959,Grapefruit (half),29,8
+1959,Ice Cream,28,9
+1959,Chocolate Ice Cream,25,10
+1960,Coffee,11,1
+1960,French Fried Potatoes,11,2
+1960,Clam Juice,10,3
+1960,Creamed Spinach,9,4
+1960,Melon In Season,9,5
+1960,Tea,9,6
+1960,Grapefruit (half),8,7
+1960,Tomato Juice,8,8
+1960,Apple Juice,7,9
+1960,Orange Juice,7,10
+1961,Coffee,54,1
+1961,Milk,48,2
+1961,Tea,39,3
+1961,Grapefruit (half),29,4
+1961,Ice Cream,26,5
+1961,Tomato Juice,26,6
+1961,Vanilla Ice Cream,23,7
+1961,Iced Coffee,22,8
+1961,Iced Tea,22,9
+1961,Shrimp Cocktail,22,10
+1962,Coffee,36,1
+1962,Tea,31,2
+1962,Milk,26,3
+1962,Tomato Juice,26,4
+1962,Ice Cream,20,5
+1962,Vanilla Ice Cream,18,6
+1962,Cole Slaw,16,7
+1962,Grapefruit Juice,16,8
+1962,Manhattan,16,9
+1962,Shrimp Cocktail,16,10
+1963,Sanka,42,1
+1963,Milk,33,2
+1963,Nescafe,31,3
+1963,Coffee,29,4
+1963,Buttermilk,27,5
+1963,Postum,25,6
+1963,Tomato Juice,25,7
+1963,Hag,21,8
+1963,Tea,20,9
+1963,Vanilla Ice Cream,20,10
+1964,Coffee,12,1
+1964,Peach Melba,12,2
+1964,Fried Potatoes,11,3
+1964,Milk,11,4
+1964,Tea,11,5
+1964,Tomato Juice,8,6
+1964,Vanilla Ice Cream,8,7
+1964,Welsh Rarebit,8,8
+1964,Camembert,7,9
+1964,Garden Peas,7,10
+1965,Coffee,52,1
+1965,French Dressing,35,2
+1965,Nescafe,29,3
+1965,Tomato Juice,29,4
+1965,Tomato Salad,26,5
+1965,Cucumber Salad,23,6
+1965,Fresh Fruit,23,7
+1965,Friandises,22,8
+1965,Mashed Potatoes,22,9
+1965,Vanilla Ice Cream,22,10
+1966,Petits Fours,8,1
+1966,Cafe,6,2
+1966,Drambuie,6,3
+1966,Coffee,5,4
+1966,Demi Tasse,5,5
+1966,Benedictine,4,6
+1966,Demi-tasse,4,7
+1966,Fresh Fruit Basket,4,8
+1966,Grand Marnier,4,9
+1966,Iced Table Celery,4,10
+1967,Milk,17,1
+1967,Coffee,11,2
+1967,Tea,11,3
+1967,Sanka,8,4
+1967,Cafe Noir,7,5
+1967,Demi Tasse,7,6
+1967,Imperial Mints,7,7
+1967,Cafe,6,8
+1967,Comport Of Fresh Fruit,6,9
+1967,French Dressing,6,10
+1968,Cafe,6,1
+1968,Coffee,6,2
+1968,Saumon Fume,6,3
+1968,Clam Chowder,5,4
+1968,Irish Coffee,5,5
+1968,Anguille Fumee,4,6
+1968,Cheese Cake,4,7
+1968,"Dreyfus, Ashby & Co.",4,8
+1968,Fruit Cheese Cake,4,9
+1968,Glace Vanille Ou Fraise,4,10
+1969,Coffee,43,1
+1969,Milk,32,2
+1969,Kaffee Hag,31,3
+1969,Mashed Potatoes,25,4
+1969,Instant Postum,23,5
+1969,Tea,20,6
+1969,Boiled Potatoes,19,7
+1969,Nescafe,18,8
+1969,Assorted Cheese,17,9
+1969,Crackers,17,10
+1970,Coffee,37,1
+1970,Milk,19,2
+1970,Tea,19,3
+1970,Sanka,15,4
+1970,"Cheese, Leiden",14,5
+1970,Cream Cheese,12,6
+1970,French Dressing,12,7
+1970,"Cheese, Gouda",11,8
+1970,Graham Bread,11,9
+1970,Orange Juice,11,10
+1971,Coffee,6,1
+1971,Iced Tea,5,2
+1971,Milk,5,3
+1971,Sanka,5,4
+1971,Smoked Salmon,5,5
+1971,Baked Potatoes,4,6
+1971,French Fried Potatoes,4,7
+1971,Fresh Fruit,4,8
+1971,Gemischter Salat,4,9
+1971,Hot Tea,4,10
+1972,Nescafe,12,1
+1972,Corbeille De Fruits,11,2
+1972,Les Frivolites Gourmandes,10,3
+1972,Fromage,9,4
+1972,Celeri En Branche,8,5
+1972,Assorted Cheese,7,6
+1972,Basket Of Fruits,7,7
+1972,Bordeaux Rouge,7,8
+1972,Café Français,7,9
+1972,Olives Vertes,7,10
+1973,Coffee,39,1
+1973,Tea,34,2
+1973,Milk,33,3
+1973,Orange Juice,25,4
+1973,Sanka,25,5
+1973,Tomato Juice,24,6
+1973,Postum,22,7
+1973,Chocolate Ice Cream,20,8
+1973,Roquefort Dressing,19,9
+1973,Vanilla Ice Cream,18,10
+1974,Coffee,9,1
+1974,Hot Tea,7,2
+1974,Hot Coffee,6,3
+1974,Iced Coffee,6,4
+1974,Iced Tea,6,5
+1974,Vanilla Ice Cream,6,6
+1974,Apples,5,7
+1974,Cheddar Cheese,5,8
+1974,Danish Blue Cheese,5,9
+1974,Kraft Cheese,5,10
+1975,Milk,9,1
+1975,Coffee,8,2
+1975,Tea,5,3
+1975,Iced Tea,4,4
+1975,Schwedenfruchte Mit Rum Und Flussiger Sahne,4,5
+1975,Deep Sea Scallops,3,6
+1975,Fruchtsalat Mit Maraschino,3,7
+1975,Irish Coffee,3,8
+1975,Jumbo Shrimp Cocktail,3,9
+1975,Lemon Sherbet,3,10
+1976,Coffee,7,1
+1976,Frische Erdbeeren Mit Sahne,5,2
+1976,Soup Du Jour,5,3
+1976,Camembert,4,4
+1976,Tea,4,5
+1976,Apfelsaft,3,6
+1976,Cheese Cake,3,7
+1976,Croques Monsieur,3,8
+1976,Fruit Cocktail,3,9
+1976,Knackige Frische Salate Mit Viel Gartengrun,3,10
+1977,Milk,7,1
+1977,"Sandwich, Pain De Mie Toaste Mayonnaise:",6,2
+1977,Tea,6,3
+1977,Iced Tea,5,4
+1977,Soup Of The Day,5,5
+1977,Cherrystone Clams,4,6
+1977,Coffee,4,7
+1977,Iced Coffee,4,8
+1977,Melon In Season,4,9
+1977,Shrimp Cocktail,4,10
+1978,Soup Of The Day,5,1
+1978,Apfelstrudel,4,2
+1978,Sherbet,4,3
+1978,Tagessuppe,4,4
+1978,Apple Pie,3,5
+1978,Butterscotch Sundae,3,6
+1978,Chicken Pie,3,7
+1978,Coffee,3,8
+1978,Dagsoep,3,9
+1978,Fruit,3,10
+1979,Melon In Season,4,1
+1979,Milk,4,2
+1979,Coffee,3,3
+1979,Grapefruit (half),3,4
+1979,Hearts Of Artichoke Vinaigrette,3,5
+1979,Le Magnum 1971,3,6
+1979,Peach Melba,3,7
+1979,Sherbet,3,8
+1979,(tureen 2.15),2,9
+1979,Apple Pie,2,10
+1980,Coffee,10,1
+1980,Milk,9,2
+1980,Tea,9,3
+1980,Iced Coffee,8,4
+1980,Iced Tea,8,5
+1980,Shrimp Cocktail,7,6
+1980,Ice Cream,6,7
+1980,Melon In Season,6,8
+1980,Sanka,6,9
+1980,Tomato Juice,6,10
+1981,Coffee,26,1
+1981,Hot Chocolate,14,2
+1981,Tea,13,3
+1981,Grapefruit Juice,10,4
+1981,Iced Coffee,10,5
+1981,Roast Potatoes,10,6
+1981,Tomato Juice,10,7
+1981,"Dressing, Thousand Islands",9,8
+1981,French Dressing,9,9
+1981,Horlicks,9,10
+1982,Shrimp Cocktail,4,1
+1982,Apple Pie,2,2
+1982,"Portion Harzer Mit Zwiebeln, Kummel, Griebenschmalz Und Brot",2,3
+1982,Soup Du Jour,2,4
+1982,"""hobelspane"", Original Greyerzer, Frisch Gehobelt",1,5
+1982,"""pfannenschmaus"", Kartoffeln, Wurst Und Zwiebeln Gebraten, In Ruhrei",1,6
+1982,"""steckl-wickl"", Hauchdunne, Fettfreie Rindfleischscheiben Mit Krautern, Am Holzstecken Gebraten Und Frischen Salaten",1,7
+1982,"(1) Crab Cakes Lump Crabmeat, Lightly Seasoned",1,8
+1982,"(13) The Steamer Steamed Seafood Platter A Tempting Smorgasborg Of Steamed Delicacies Clams, Oysters, Shrimp, Stonr Crab Claws, King Crab Leg, Petite Lobster Tail And Scallops",1,9
+1982,(14) Baked Scallops With Newberg Sauce En Casserole,1,10
+1983,Coffee,3,1
+1983,Milk,3,2
+1983,Baked Lasagna Alla Casalinga,2,3
+1983,Cointreau,2,4
+1983,Doornkaat,2,5
+1983,Fernet Branca,2,6
+1983,Grand Marnier,2,7
+1983,Grog Mit Rum,2,8
+1983,"Hecht Gebacken, Sauce Tartare, Salzkartoffeln",2,9
+1983,"Henkell Trocken, Ap Sekt",2,10
+1984,"""cappuccino""",4,1
+1984,Egg Roll,4,2
+1984,Sweet And Sour Pork,4,3
+1984,Won-ton Soup,4,4
+1984,Beef With Broccoli,3,5
+1984,Egg Drop Soup,3,6
+1984,Espresso,3,7
+1984,Hot & Sour Soup,3,8
+1984,Irish Coffee,3,9
+1984,Shredded Pork With Garlic Sauce,3,10
+1985,Coffee,15,1
+1985,Espresso,11,2
+1985,Tea,11,3
+1985,Milk,10,4
+1985,Iced Tea,7,5
+1985,"""cappuccino""",6,6
+1985,Hot Chocolate,6,7
+1985,Ice Cream,6,8
+1985,Melon In Season,6,9
+1985,Mixed Green Salad,6,10
+1986,Canapes,6,1
+1986,Coffee,6,2
+1986,Tea,6,3
+1986,"""cappuccino""",4,4
+1986,Espresso,4,5
+1986,Americano,3,6
+1986,Bloody Mary,3,7
+1986,Bourbon,3,8
+1986,Campari,3,9
+1986,Caviar Frais,3,10
+1987,Coffee,43,1
+1987,Tea,34,2
+1987,Sanka,25,3
+1987,Milk,22,4
+1987,Iced Tea,18,5
+1987,Iced Coffee,15,6
+1987,Cole Slaw,10,7
+1987,Grapefruit,10,8
+1987,Bloody Mary,9,9
+1987,Espresso,9,10
+1988,Milk,7,1
+1988,Campari,4,2
+1988,Coffee,4,3
+1988,Iced Tea,4,4
+1988,Tea,4,5
+1988,Bloody Mary,3,6
+1988,Cointreau,3,7
+1988,Espresso,3,8
+1988,"""cappuccino""",2,9
+1988,Burrito-carne Adovada,2,10
+1989,Fresh Fruit,5,1
+1989,Milk,5,2
+1989,Orange Juice,5,3
+1989,"Chiles Rellenos (one Cheese, One Minced-pork Picadillo) With Roasted Tomato Sauce (central) (limited Supply)",4,4
+1989,Coffee,4,5
+1989,French Dressing,4,6
+1989,Grapefruit Juice,4,7
+1989,Iced Tea,4,8
+1989,Thousand Island Dressing,4,9
+1989,Tomato Juice,4,10
+1990,Eaux Minerales,8,1
+1990,Cafes,7,2
+1990,Canapes,4,3
+1990,Campari,3,4
+1990,Coffee,3,5
+1990,Cointreau,3,6
+1990,Drambuie,3,7
+1990,Grand Marnier,3,8
+1990,"""chateau De Roux"" (cotes De Provence) Blanc.",2,9
+1990,"""chateau De Roux"" (cotes De Provence) Rouge.",2,10
+1991,Chapelure De Cuisses De Grenouilles À La Coriandre,2,1
+1991,Château Au Fleurie À La Moelle,2,2
+1991,"Cremes Glacees, Sorbets Et Fruits De Saison",2,3
+1991,Crèmes Glacées Et Sorbets De Fruits,2,4
+1991,"Côte À L'os Saint-christophe, Gratin Forézien (2 Personnes)",2,5
+1991,"Emincé De Rognons, Sauce Capucine Aux Câpres",2,6
+1991,Entrecôte Pissalat Aux Anchois Salés,2,7
+1991,"Fours, Froisses Et Feuilles D'automne",2,8
+1991,Fromage: Choix De Nos Provinces Françaises,2,9
+1991,Fromages De Nos Provinces,2,10
+1992,Spaghetti With Tomato Sauce,2,1
+1992,*glass,1,2
+1992,1 Pfund Ingelheimer Stangenspargel Mit Sauce Hollandaise Und Neuen Kartoffeln,1,3
+1992,1000 Island,1,4
+1992,Animal Cookie,1,5
+1992,Baked Chicken Mediterranean Style Spaghetti W/mizithra Cheese & Tomato Sauce,1,6
+1992,Baked Lasagna,1,7
+1992,Bayrisches Festtagssuppchen,1,8
+1992,Blush (wm. Wycliff),1,9
+1992,Bud Light,1,10
+1993,Petits Gâteaux D'une Bouchée,10,1
+1993,Fromages Frais Et Affines,8,2
+1993,Crêpes Vonnassiennes,6,3
+1993,Sauté De Coquilles Saint-jacques Aux Cèpes,6,4
+1993,Four Secs - Mignardises Et Nos Chocolats,5,5
+1993,Fours Secs - Mignardises,5,6
+1993,Bar Rôti À La Peau Aux Aromates Et À L'huile Vierge,4,7
+1993,Blanc De Bresse Fondant Et Crépinette De Cuisse Laquée,4,8
+1993,Blanquette De Grenouilles Aux Truffes,4,9
+1993,Confit De Legumes Au Chou Rouge Et Foie Gras De Canard Poele,4,10
+1994,"""deviled"" Quail Eggs With Mint Cured Smoked Salmon",1,1
+1994,1987 William Hill Reserve Cabernet Sauvignon,1,2
+1994,1989 Atlas Peak Consenso,1,3
+1994,1989 Simi Reserve Chardonnay,1,4
+1994,1990 Clos Du Bois Briarcrest Cabernet Sauvignon,1,5
+1994,1990 Jordan Cabernet Sauvignon,1,6
+1994,1991 Matanzas Creek Chardonnay,1,7
+1994,1992 Clos Du Bois Calcaire Chardonnay,1,8
+1994,1993 Callaway Pinot Gris,1,9
+1994,Angel Hair Pasta And Asiago Cheese Medallions With Cajun Prawn And Aioli Sauce,1,10
+1995,Achiote Chicken Breast In Indian Grill Bread Vegetables Escabeche And Roasted Chiles,2,1
+1995,Amstel Light,2,2
+1995,Bud Light,2,3
+1995,Budweiser,2,4
+1995,"Buehler, White Zinfandel",2,5
+1995,Celis Raspberry,2,6
+1995,Celis White (wheat),2,7
+1995,"Chateau Montelena, ""calistoga Cuvee,"" Cabernet Sauvignon",2,8
+1995,Coors Light,2,9
+1995,Corona,2,10
+1996,Bourgueil 1994 (j. Gambier),2,1
+1996,*henkell Trocken,1,2
+1996,1990 Chianti Classico Riserva D.O.C.G. Castello Di San Polo In Rosso,1,3
+1996,1994 Chardonnay Woodbridge Robert Mondavi,1,4
+1996,American Coffee,1,5
+1996,"Assiette ""tout-chocolat""",1,6
+1996,Aubergines Confites Au Chocolat Et Fleur De Thym,1,7
+1996,Baden,1,8
+1996,Ballotine De Ris D'agneau Aux Lentins Du Chêne,1,9
+1996,Belle-vue Gueuze Framboise,1,10
+1997,French Fries,3,1
+1997,Applebee's House Salad,2,2
+1997,Bacon & Cheddar Mashed Potatoes,2,3
+1997,Baked Potato,2,4
+1997,Bowl Of Today's Soup,2,5
+1997,Cafe,2,6
+1997,"Cuisse De Canard Confite Aux Épices, Gratin De Blettes",2,7
+1997,Filets De Maquereau Aux Aromates,2,8
+1997,"Foie De Veau Meunière, Raisins Blonds Au Verjus Et Pommes Purée",2,9
+1997,Minestrone De Légumes Au Pistou,2,10
+1998,Caesar Salad,3,1
+1998,"""cappuccino""",2,2
+1998,"""scampi"" Shrimp And Garlic With White Wine, Tomatoes And Mushrooms Over Linguine",2,3
+1998,"""smoke Roasted"" Salmon Cold Plate. Cooked And Chilled Smoked Salmon From Maine With Roasted Red Pepper Sauce, Capers, Coucous Salad, Pickled Red Onions, And Hard-boiled Egg",2,4
+1998,Arctic Char,2,5
+1998,Coffee,2,6
+1998,Espresso,2,7
+1998,Fish & Chips. Regular Or Spicy,2,8
+1998,"Gruet Brut, Nv, New Mexico",2,9
+1998,Jasmine Special. Shrimp And Broccoli Steamed Over Jasmine Rice...Melted Monterey Jack Cheese,2,10
+1999,Gundel Egri Cabernet Sauvignon 1996,8,1
+1999,Gundel Egri Merlot 1996,8,2
+1999,Gundel Tokaji Furmint 1997,5,3
+1999,Gundel Tokaji Muscat Lunel 1997,4,4
+1999,Torley Demi Sec,4,5
+1999,Gundel Tokaji Aszu 5 Puttonyos 1993,3,6
+1999,Cream Of Potato And Celery Soup With Rhubarb,2,7
+1999,Erdelyi Salata Vinetevel Es Sult Paprikaval,2,8
+1999,Evian,2,9
+1999,Fresh Squeezed Oj Or Grapefruit Juice,2,10
+2000,Roast Pork Chow Mein,4,1
+2000,Beef Chow Mein,3,2
+2000,Beef W. Garlic Sauce,3,3
+2000,Chicken Lo Mein,3,4
+2000,Chicken W. Cashew Nuts,3,5
+2000,Chicken W. Garlic Sauce,3,6
+2000,Hunan Chicken,3,7
+2000,Moo Goo Gai Pan,3,8
+2000,Pepper Steak W. Onion,3,9
+2000,Roast Pork Egg Foo Young,3,10
+2001,Fresh Garden Salads With A Dressing Of Your Choice,8,1
+2001,Baked Potatoes,6,2
+2001,Steamed Vegetables,5,3
+2001,A Selection Of Fresh Garden Salads With A Dressing Of Your Choice,3,4
+2001,Baked Escargots In Garlic Herb Butter,2,5
+2001,"Baked York Ham, Cumberland Sauce, Roast Potatoes, Green Beans And Buttered Carrots",2,6
+2001,Barley Soup With Root Vegetables,2,7
+2001,Beef Borscht With Sour Cream,2,8
+2001,Beef Consomme With Egg Royale And Celery,2,9
+2001,Bell Pepper Crudites,2,10
+2002,"Asparagus Wrapped In San Danielle Proscuitto, Aged Stilton Cheese And Fig Sauce",1,1
+2002,Avocado Stuffed With Crabmeat,1,2
+2002,Blue Point Oysters On The Half Shell,1,3
+2002,Caesar Salad,1,4
+2002,"Chef Salad: Swiss And Cheddar Cheeses, Turkey Breast, Roast Beef, Ham, Lettuce, Choice Of Dressing",1,5
+2002,"Chicken Wrap: Chicken Breast With Avocado, Tomato And Lettuce Served With Salsa",1,6
+2002,Chilled Poached Salmon Served With Watercress Dressing,1,7
+2002,Chocolate Mousse,1,8
+2002,"Cobb Salad: Diced Avocado, Bacon, Turkey, Ham, Tomato, Swiss And Cheddar Cheeses, Choice Of Dressing",1,9
+2002,Creme Brulee,1,10
+2003,Bouillabaisse,1,1
+2003,Burnt Caramel Ice Cream,1,2
+2003,"Cajun Fried Popcorn Shrimp, With Creole Sauce",1,3
+2003,Caviar With Chopped Egg,1,4
+2003,Chocolate Sauce,1,5
+2003,Coffee,1,6
+2003,Dungeness Crabmeat Salad,1,7
+2003,Fried Clam,1,8
+2003,Grilled Sliced Tuna With Salsa,1,9
+2003,"Grilled Tuna Burger, Asian Style",1,10
+2004,640 Inniskillin Gold Label Ice Wine 2001,1,1
+2004,641 Inniskillin Ice Wine 2001 Sparkling,1,2
+2004,642 Inniskillin Pearl Label Ice Wine 2002,1,3
+2004,654 Kracher #1 Beerenauslese Cuvee 2002,1,4
+2004,660 Kracher #12 Trockenbeerenauslese 1995 Grand Cuvee,1,5
+2004,661 Kracher #9 Trockenbeerenauslese 1995 Zweiglet Rose,1,6
+2004,"Almond Scented Bavarian Shortbread, Quince Compote, Hot Chocolate Baklava",1,7
+2004,"Caramelized Pineapple & Spiced Cake, Macadamia Nut Crumble, Ginger Ice Cream",1,8
+2004,Chamomile Citron Tea,1,9
+2004,"Classic French Apple Tart, Vanilla Ice Cream",1,10
+2005,"Saure Brez'n Knodel, Dunn Aufgeschnitten, Mit Regensburger Wurst",2,1
+2005,1/2 Chicken,1,2
+2005,"1/2 Schweinshax'n Knusprig Gebraten, Mit Kartoffelknodel Und Speckkrautsakat",1,3
+2005,"1/2 Schweinshax'n Knusprig Gebraten, Mit Kartoffelknödel Und Speckkrautsalat 12.30",1,4
+2005,"2 Ochsenaugen Auf Rahmspinat, Dazu Salzkartoffeln",1,5
+2005,3 Reiberdatschi Auf Sauerkraut Oder Mit Apfelmus,1,6
+2005,4 Stuck Orig. Nurnberger Rostabratwurstl* Mit Kraut,1,7
+2005,4 Stuck Saure Zipfel Im Wurselsud Serviert,1,8
+2005,8 Stuck Saure Zipfel* Im Wurzelsud Serviert,1,9
+2005,"Abgeschmolzene Maultaschen In Zwiebelsosse, Mit Grünem Salat 10,50",1,10
+2006,Mignardises,3,1
+2006,""" Tomme Du Berger"" Peanut Fingerling Potatoes, ""julienne"" Of Golden Delicious Apple, ""asperges Des Bois"", Mustard Cress And Green Apple Mustard",1,2
+2006,"""bacon And Eggs"", Sautéed ""rouelle"" Of Four Story Hill Farm Berkshire ""tête De Cochon"", Sunny-side Up Quail Egg, Frisée Lettuce And ""sauce Gribiche""",1,3
+2006,"""black Forest"": Valrhona Chocolate Brownie, Milk Chocolate ""ganache"", Cherry Ice Cream And Pistachio ""crumble""",1,4
+2006,"""degustation"" Of Early Summer Melons: Hawaiian Hearts Of Peach Palm, Sauternes ""gelée"" And ""fines Herbes""",1,5
+2006,"""minestrone"": Spring Vegetables, Hand-rolled ""trizzi"" And ""petit"" Basil",1,6
+2006,"""nisa"": George Doukmaji's ""falafel"", ""raita"" And Young Mint Leaves",1,7
+2006,"""oysters And Pearls"" ""sabayon"" Of Pearl Tapioca With Island Creek Oysters And Russian Sevruga Caviar",1,8
+2006,"""risi E Bisi"": ""carnaroli Risotto Biologico"", Sugar Snap Peas, Pea Tendrils And ""parmigiano Reggiano""",1,9
+2006,"""snickers Bar"": Milk Chocolate ""crémeux"", Chocolate ""sacher"" And Salted Caramel ""gelée"" With Spanish Peanut ""nougatine"" And Nougat Ice Cream",1,10
+2008,Apple Cider French Onion With Thyme,2,1
+2008,2002 Chardonnay Monterey Chalone Vineyard,1,2
+2008,2003 Bordeaux Clarendelle,1,3
+2008,2004 Merlot California Blackstone,1,4
+2008,2004 Merlot Cuvee Alexandre Casa Lapostolle,1,5
+2008,2004 Pinot Gris Pierre Sparr,1,6
+2008,2004 Sauvignon Western Cape Sincerely Neil Ellis,1,7
+2008,2005 Bourgogne Pinot Noir Domaine Parent,1,8
+2008,2005 Claret Napa Valley Newton,1,9
+2008,2005 Cotes Du Roussillon Villages Reserve Calandray,1,10
+2012,1934 Chateau Margaux Margaux,2,1
+2012,1976 Dom Ruinart,2,2
+2012,1976 Veuve Clicquot,2,3
+2012,1980 Chateau Bouscaut Graves,2,4
+2012,Cafe,2,5
+2012,Caffe,2,6
+2012,"Chardonnay, Estancia Estates 1996 (monterey)",2,7
+2012,Corton-charlemagne Domaine Louis Latour,2,8
+2012,Domaine Ott 1973,2,9
+2012,Espresso,2,10
+2015,"1/1 Stegt Søtunge Fyldt M. Champignons, À La Creme Og Hummer",1,1
+2015,1/2 Kogt Kylling I Champignons,1,2
+2015,1/2 Kogt Kylling I Flødepeberrod,1,3
+2015,1/2 Sild M. Smør Og Kartofler,1,4
+2015,1/2 Stegt Kylling M. Champignons,1,5
+2015,1/2 Stegt Kylling M. Salat,1,6
+2015,2 Spejlæg I Madeirasky,1,7
+2015,Aal I Karry,1,8
+2015,"Amagerkotlet: Den Velsmagende Svinekotelet, Stegt Sammen Med Julienneskaarne Gemyser Samt Pommes Saute. Flødesauce",1,9
+2015,Andre Oste Efter Ønske,1,10
+2928,*glass,2,1
+2928,Chablis,2,2
+2928,"Crab Meat With Lettuce, Special Dressing (individual)",2,3
+2928,Allash Kuemmel,1,4
+2928,American Cheese,1,5
+2928,Anheuser Busch Michelob Gl.,1,6
+2928,Anheuser Busch Michelob Pt.,1,7
+2928,Anheuser Busch Michelob Qt.,1,8
+2928,"Anheuser Busch Michelob Seidel, Gl.",1,9
+2928,Anheuser Busch Muenchener Gl.,1,10
