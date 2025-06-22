@@ -1,0 +1,72 @@
+
+/* Start of top-level graph */
+digraph Workflow {
+rankdir=TB
+
+/* Title for graph */
+fontname=Courier; fontsize=18; labelloc=t
+label=DataCleaningProject_Workflow1
+
+/* Start of double cluster for drawing box around nodes in workflow */
+subgraph cluster_workflow_box_outer { label=""; color=black; penwidth=2
+subgraph cluster_workflow_box_inner { label=""; color=white
+
+/* Style for nodes representing atomic programs in workflow */
+node[shape=box style=filled fillcolor="#CCFFCC" peripheries=1 fontname=Courier]
+
+/* Nodes representing atomic programs in workflow */
+DataProfiling [shape=record rankdir=LR label="{<f0> DataProfiling |<f1> Understand the data, define use case, identify data quality issues, design database schema}"];
+DataLoading [shape=record rankdir=LR label="{<f0> DataLoading |<f1> Read raw data and prepare it for the data transform phase}"];
+DataCleaning_OpenRefine [shape=record rankdir=LR label="{<f0> DataCleaning_OpenRefine |<f1> Data profiling, text transform (trim, standardize name, Regex extraction, format), data cleaning}"];
+DataCleaning_Pandas [shape=record rankdir=LR label="{<f0> DataCleaning_Pandas |<f1> Additional data cleaning and data manipulation (filter, profile, remove duplicates, fill missing data)}"];
+ICViolationChecks [shape=record rankdir=LR label="{<f0> ICViolationChecks |<f1> Verify referential integrity and check constrains}"];
+DB_DataIngestion [shape=record rankdir=LR label="{<f0> DB_DataIngestion |<f1> Create DB tables with cleaned ic_checked_data (Dish, Menu, Menu Page, Menu Item)}"];
+Usecase1Query [shape=record rankdir=LR label="{<f0> Usecase1Query |<f1> Query the data to generate historical frequencies of menu items}"];
+
+/* Style for nodes representing non-parameter data channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FFFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes for non-parameter data channels in workflow */
+menu_item_historical_frequencies [shape=record rankdir=LR label="{<f0> menu_item_historical_frequencies |<f1> file\:\{file_pth\}/menu_item_historical_frequencies.csv}"];
+raw_data_file [shape=record rankdir=LR label="{<f0> raw_data_file |<f1> file\:\{file_pth\}/dirty_data}"];
+profiled_data_file [shape=record rankdir=LR label="{<f0> profiled_data_file |<f1> file\:\{file_pth\}/profiled_data}"];
+loaded_data_file [shape=record rankdir=LR label="{<f0> loaded_data_file |<f1> file\:\{file_pth\}/loaded_data}"];
+cleaned_data_file [shape=record rankdir=LR label="{<f0> cleaned_data_file |<f1> file\:\{file_pth\}/cleaned_data_openrefine}"];
+cleaned_final_data_file [shape=record rankdir=LR label="{<f0> cleaned_final_data_file |<f1> file\:\{file_pth\}/cleaned_data_pandas}"];
+ic_checked_data_file [shape=record rankdir=LR label="{<f0> ic_checked_data_file |<f1> file\:\{file_pth\}/ic_checked_data}"];
+database_tables [shape=record rankdir=LR label="{<f0> database_tables |<f1> file\:\{file_pth\}/database_tables}"];
+
+/* Style for nodes representing parameter channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FCFCFC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing parameter channels in workflow */
+file_pth
+
+/* Edges representing connections between programs and channels */
+DataProfiling -> profiled_data_file
+file_pth -> DataProfiling
+raw_data_file -> DataProfiling
+DataLoading -> loaded_data_file
+file_pth -> DataLoading
+profiled_data_file -> DataLoading
+DataCleaning_OpenRefine -> cleaned_data_file
+file_pth -> DataCleaning_OpenRefine
+loaded_data_file -> DataCleaning_OpenRefine
+DataCleaning_Pandas -> cleaned_final_data_file
+file_pth -> DataCleaning_Pandas
+cleaned_data_file -> DataCleaning_Pandas
+ICViolationChecks -> ic_checked_data_file
+file_pth -> ICViolationChecks
+cleaned_final_data_file -> ICViolationChecks
+DB_DataIngestion -> database_tables
+file_pth -> DB_DataIngestion
+ic_checked_data_file -> DB_DataIngestion
+Usecase1Query -> menu_item_historical_frequencies
+file_pth -> Usecase1Query
+database_tables -> Usecase1Query
+
+/* End of double cluster for drawing box around nodes in workflow */
+}}
+
+/* End of top-level graph */
+}
