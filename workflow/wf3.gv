@@ -1,0 +1,153 @@
+
+/* Start of top-level graph */
+digraph Workflow {
+rankdir=TB
+
+/* Title for graph */
+fontname=Courier; fontsize=18; labelloc=t
+label=DataCleaningProject_Workflow3
+
+/* Start of double cluster for drawing box around nodes in workflow */
+subgraph cluster_workflow_box_outer { label=""; color=black; penwidth=2
+subgraph cluster_workflow_box_inner { label=""; color=white
+
+/* Style for nodes representing atomic programs in workflow */
+node[shape=box style=filled fillcolor="#CCFFCC" peripheries=1 fontname=Courier]
+
+/* Nodes representing atomic programs in workflow */
+Load_Cleaned_CSV_Files [shape=record rankdir=LR label="{<f0> Load_Cleaned_CSV_Files |<f1> Load the cleaned CSV files into pandas DataFrames.}"];
+Data_Profiling [shape=record rankdir=LR label="{<f0> Data_Profiling |<f1> Profile the data to understand its structure and content.}"];
+Handle_Missing_Values [shape=record rankdir=LR label="{<f0> Handle_Missing_Values |<f1> Handle missing values in the datasets.}"];
+Remove_Duplicates [shape=record rankdir=LR label="{<f0> Remove_Duplicates |<f1> Remove duplicate rows from the datasets.}"];
+Standardize_Columns [shape=record rankdir=LR label="{<f0> Standardize_Columns |<f1> Standardize column names and data types.}"];
+Clean_Negative_Values [shape=record rankdir=LR label="{<f0> Clean_Negative_Values |<f1> Replace negative values in numerical columns with 0.}"];
+Clip_Values [shape=record rankdir=LR label="{<f0> Clip_Values |<f1> Clip values in specific columns to a specified range.}"];
+Save_Cleaned_CSVs [shape=record rankdir=LR label="{<f0> Save_Cleaned_CSVs |<f1> Save the cleaned DataFrames to new CSV files.}"];
+Connect_Database [shape=record rankdir=LR label="{<f0> Connect_Database |<f1> Connect to the SQLite database.}"];
+Create_Tables [shape=record rankdir=LR label="{<f0> Create_Tables |<f1> Create tables in the SQLite database for the cleaned data.}"];
+Insert_Data [shape=record rankdir=LR label="{<f0> Insert_Data |<f1> Insert data from the cleaned CSV files into the respective tables in the SQLite database.}"];
+Potential_Issues_Analysis [shape=record rankdir=LR label="{<f0> Potential_Issues_Analysis |<f1> Analyze and record potential issues in text in the cleaned data.}"];
+Query_Top_Dishes [shape=record rankdir=LR label="{<f0> Query_Top_Dishes |<f1> Perform a complex SQL query to find the top 10 menu items per year and save the result to a CSV file.}"];
+
+/* Style for nodes representing non-parameter data channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FFFFCC" peripheries=1 fontname=Helvetica]
+
+/* Nodes for non-parameter data channels in workflow */
+"menu_item_historical_frequencies.csv"
+"Dish_clean_final.csv"
+"Menu_clean_final.csv"
+"MenuPage_clean_final.csv"
+"MenuItem_clean_final.csv"
+"Dish_clean.csv"
+"Menu_clean.csv"
+"MenuPage_clean.csv"
+"MenuItem_clean.csv"
+dish_clean
+menu_clean
+menupage_clean
+menuitem_clean
+dish_no_missing
+menu_no_missing
+menupage_no_missing
+menuitem_no_missing
+dish_no_duplicates
+menu_no_duplicates
+menupage_no_duplicates
+menuitem_no_duplicates
+dish_standardized
+menuitem_standardized
+dish_cleaned_negatives
+dish_clipped
+menu_standardized
+menupage_standardized
+menuitem_cleaned_negatives
+db_cursor
+db_conn
+tables_created
+data_inserted
+issues_diagnose [shape=record rankdir=LR label="{<f0> issues_diagnose |<f1> file\:\{file_pth\}/issues_diagnose_text}"];
+
+/* Style for nodes representing parameter channels in workflow */
+node[shape=box style="rounded,filled" fillcolor="#FCFCFC" peripheries=1 fontname=Helvetica]
+
+/* Nodes representing parameter channels in workflow */
+
+/* Edges representing connections between programs and channels */
+Load_Cleaned_CSV_Files -> dish_clean
+Load_Cleaned_CSV_Files -> menu_clean
+Load_Cleaned_CSV_Files -> menupage_clean
+Load_Cleaned_CSV_Files -> menuitem_clean
+"Dish_clean.csv" -> Load_Cleaned_CSV_Files
+"Menu_clean.csv" -> Load_Cleaned_CSV_Files
+"MenuPage_clean.csv" -> Load_Cleaned_CSV_Files
+"MenuItem_clean.csv" -> Load_Cleaned_CSV_Files
+Data_Profiling -> dish_profile_stats
+Data_Profiling -> menu_profile_stats
+Data_Profiling -> menupage_profile_stats
+Data_Profiling -> menuitem_profile_stats
+dish_clean -> Data_Profiling
+menu_clean -> Data_Profiling
+menupage_clean -> Data_Profiling
+menuitem_clean -> Data_Profiling
+Handle_Missing_Values -> dish_no_missing
+Handle_Missing_Values -> menu_no_missing
+Handle_Missing_Values -> menupage_no_missing
+Handle_Missing_Values -> menuitem_no_missing
+dish_clean -> Handle_Missing_Values
+menu_clean -> Handle_Missing_Values
+menupage_clean -> Handle_Missing_Values
+menuitem_clean -> Handle_Missing_Values
+Remove_Duplicates -> dish_no_duplicates
+Remove_Duplicates -> menu_no_duplicates
+Remove_Duplicates -> menupage_no_duplicates
+Remove_Duplicates -> menuitem_no_duplicates
+dish_no_missing -> Remove_Duplicates
+menu_no_missing -> Remove_Duplicates
+menupage_no_missing -> Remove_Duplicates
+menuitem_no_missing -> Remove_Duplicates
+Standardize_Columns -> dish_standardized
+Standardize_Columns -> menu_standardized
+Standardize_Columns -> menupage_standardized
+Standardize_Columns -> menuitem_standardized
+dish_no_duplicates -> Standardize_Columns
+menu_no_duplicates -> Standardize_Columns
+menupage_no_duplicates -> Standardize_Columns
+menuitem_no_duplicates -> Standardize_Columns
+Clean_Negative_Values -> dish_cleaned_negatives
+Clean_Negative_Values -> menuitem_cleaned_negatives
+dish_standardized -> Clean_Negative_Values
+menuitem_standardized -> Clean_Negative_Values
+Clip_Values -> dish_clipped
+dish_cleaned_negatives -> Clip_Values
+Save_Cleaned_CSVs -> "Dish_clean_final.csv"
+Save_Cleaned_CSVs -> "Menu_clean_final.csv"
+Save_Cleaned_CSVs -> "MenuPage_clean_final.csv"
+Save_Cleaned_CSVs -> "MenuItem_clean_final.csv"
+dish_clipped -> Save_Cleaned_CSVs
+menu_standardized -> Save_Cleaned_CSVs
+menupage_standardized -> Save_Cleaned_CSVs
+menuitem_cleaned_negatives -> Save_Cleaned_CSVs
+Connect_Database -> db_conn
+Connect_Database -> db_cursor
+Create_Tables -> tables_created
+db_cursor -> Create_Tables
+db_conn -> Create_Tables
+Insert_Data -> data_inserted
+db_cursor -> Insert_Data
+db_conn -> Insert_Data
+"Dish_clean_final.csv" -> Insert_Data
+"Menu_clean_final.csv" -> Insert_Data
+"MenuPage_clean_final.csv" -> Insert_Data
+"MenuItem_clean_final.csv" -> Insert_Data
+Potential_Issues_Analysis -> issues_diagnose
+tables_created -> Potential_Issues_Analysis
+data_inserted -> Potential_Issues_Analysis
+Query_Top_Dishes -> "menu_item_historical_frequencies.csv"
+issues_diagnose -> Query_Top_Dishes
+db_cursor -> Query_Top_Dishes
+
+/* End of double cluster for drawing box around nodes in workflow */
+}}
+
+/* End of top-level graph */
+}
